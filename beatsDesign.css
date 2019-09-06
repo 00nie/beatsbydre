@@ -1,0 +1,22 @@
+html, body{
+  background-color: black;
+}
+
+.nav {
+  background: black;
+}
+
+.nav-link {
+  color: red;
+  margin-top: 10px;
+  margin-left: 50px;
+}
+
+.nav-link:hover {
+  color: white;
+}
+
+.heroText h1, p {
+  color: white;
+  background-color: black;
+}
